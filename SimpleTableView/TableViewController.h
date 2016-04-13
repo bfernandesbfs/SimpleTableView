@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewController.h
 //  SimpleTableView
 //
 //  Created by Bruno Fernandes on 12/04/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TableViewController : UITableViewController
 
 @end
-
